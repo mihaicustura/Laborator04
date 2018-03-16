@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contacts Manager</string>
+    <string name="phone_error">Phone number error</string>
+</resources>
